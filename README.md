@@ -1,8 +1,8 @@
 - Hi, I’m QiangQin.
-- I’m interested in basketball and travel.
 - I’m currently learning Java、MySql...
 - I'm glad to learn with you。
-- This is my Email:2901422401@qq.com
+- Email:2901422401@qq.com
+- CSDN：https://blog.csdn.net/qq_41571459
 
 <!---
 QiangQinQin/QiangQinQin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
